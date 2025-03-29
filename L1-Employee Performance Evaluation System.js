@@ -19,6 +19,6 @@ function performanceEvaluation( empDetails){
       { name: "Bob", tasksCompleted: 4, rating: 4.0 },
       { name: "Charlie", tasksCompleted: 6, rating: 3.5 },
       { name: "David", tasksCompleted: 10, rating: 4.9 },
-      { name: "Eve", tasksCompleted: 7, rating: 2.8 }
+      { name: "Eve", tasksCompleted: 5, rating: 2.8 }
     ];
     performanceEvaluation(empDetails)
